@@ -1,8 +1,9 @@
 .banner {
-  background-image: url("https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+  background-image: url("https://img2.goodfon.com/wallpaper/nbig/3/b8/beach-sunset-sea-dog-sleepin-dreams-sand-dusk-seaside-twilig.jpg");
+  /*background-image: url("https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");*/
   background-size: cover;
   background-position: center;
-  padding: 200px 0;
+  padding: 150px 0;
   color: white;
 }
 
@@ -15,16 +16,19 @@ div.container {
 div.container h1 {
   font-size: 40px;
   margin-bottom: 0px;
+  text-shadow: 1px 1px 3px #ccc;
 }
 
 div.container p {
   font-size: 25px;
   margin-top: 0px;
   margin-bottom: 30px;
+  text-shadow: 1px 1px 3px #ccc;
+  font-weight: bolder;
 }
 
 .btn-treehouse {
-  background-color: #6B676F;
+  background-color: #FF6161;
   padding: 15px 25px;
   margin: 20px 0px;
   color: white;
@@ -34,6 +38,6 @@ div.container p {
 }
 
 .btn-treehouse:hover{
-    background-color: #605C66;
+    background-color: #F6B356;
     opacity: 1;
 }
