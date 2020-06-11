@@ -1,0 +1,39 @@
+.banner {
+  background-image: url("https://images.unsplash.com/photo-1504208434309-cb69f4fe52b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  color: white;
+}
+
+div.container {
+  margin-left: 40px;
+  margin-top: 215px;
+  position: relative;
+}
+
+div.container h1 {
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+div.container p {
+  font-size: 25px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.btn-treehouse {
+  background-color: #6B676F;
+  padding: 15px 25px;
+  margin: 20px 0px;
+  color: white;
+  font-weight: bolder;
+  border-radius: 5px;
+  transition: background 0.3s ease;
+}
+
+.btn-treehouse:hover{
+    background-color: #605C66;
+    opacity: 1;
+}
